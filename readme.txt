@@ -1,0 +1,1 @@
+Blábot je česká alternativa latinského lorem ipsum - tedy generování náhodného textu o určité velikosti. Tato verze blábota vznikla jako studentský pokus a není plně dokončená. 
